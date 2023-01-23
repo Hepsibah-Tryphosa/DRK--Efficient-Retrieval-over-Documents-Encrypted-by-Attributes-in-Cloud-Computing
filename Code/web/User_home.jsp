@@ -59,7 +59,7 @@
         <section class="breadcrumb_area">
             <div class="overlay bg-parallax" data-stellar-ratio="0.8" data-stellar-vertical-offset="0" data-background=""></div>
             <div class="container">
-              <h1 align="center " class="text-heading title_color "  style="color:white" >Data Owner Home</h1>
+              <h1 align="center " class="text-heading title_color "  style="color:white" >Data user Home</h1>
         
                     
             </div> 
